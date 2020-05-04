@@ -7,11 +7,11 @@ CryptoStars is an Ethereum Dapp implemented using Truffle v5
 
 > ERC-721 Token Name
 > 
-	CryptoStar
+	neels star blockchain
 > 
 > ERC-721 Token Symbol
 > 
-	CST
+	NSTAR
 > 
 
 Things you can do with the **CryptStars Dapp**:
